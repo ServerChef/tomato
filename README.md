@@ -10,3 +10,4 @@ Manage your WP boxes like a tomato.
 
 ## License
 [Not yet decided]
+
